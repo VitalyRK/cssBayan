@@ -57,7 +57,7 @@ svg {
 
 .content img {
   max-height: 30vh;
-  padding-bottom: 2vh;
+  padding: 2vh;
 }
 
 input {
